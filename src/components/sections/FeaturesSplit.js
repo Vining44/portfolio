@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Work Experience',
+    paragraph: 'I have worked at a variety of places in my time off from school. I did upkeep and lawncare for the cemetery in my hometown, worked at the local Kansas Drivers License Office, put together and delivered furniture, and have been self employed mowing yards and doing maintenance.'
   };
 
   return (
@@ -67,13 +67,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Independence Kansas Cemetery
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Just over a mile long, the cemetery always had work to be done. Whether cleaning up fallen limbs after a storm, picking up trash, or just simply mowing and weed eating all day, the cemetery never lacked work.
                   </p>
               </div>
               <div className={
@@ -93,13 +93,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Kansas Drivers License Office
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  With the unfortunate turn of Covid-19, this job became more difficult than the first year. My second year there I was promoted to answering phones, scheduling appointments, helming the drive tests, and filing paperwork.
                   </p>
               </div>
               <div className={
@@ -119,13 +119,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Lightning fast workflow
+                  
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Messenger's Furniture
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  When the Drivers License Office was closed I took up employment at our local furniture store. I put together furniture that we got off shipments, stocked the warehouse, and hauled furniture/beds in the summer heat.
                   </p>
               </div>
               <div className={
