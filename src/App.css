@@ -52,11 +52,9 @@ h2.mt-0.mb-16 {
 }
 
 img.has-shadow {
-    border: 20px double !important;
-    background-color: #8d9092 !important;
-    border-color: #13294b !important;
-    border-width: 10px !importants;
-    border-radius: 20px !important;
+    shadow: 40px !important;
+    outline: groove #fff !important;
+    outline-width: 10px !important;
 }
 
 h3.mt-0.mb-12 {
@@ -66,4 +64,12 @@ h3.mt-0.mb-12 {
 
 p.m-0 {
     text-align: center !important;
+}
+
+.garbage {
+    display: none !important;
+}
+
+.tiles-item-reveal-from-right-is-revealed{
+    height: 900px !important;
 }

@@ -69,10 +69,10 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    References/Resume
+                  <Button tag="a" color="primary" wideMobile href="https://www.richroll.com/">
+                    Inspiration
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="https://collegiansc.org/?s=Kaleb+Vining">
                     Newspaper Articles
                     </Button>
                 </ButtonGroup>
@@ -90,7 +90,7 @@ const Hero = ({
                 className="has-shadow"
                 src={require('./../../assets/images/video-placeholder.jpg')}
                 alt="Hero"
-                width={400}
+                width={600}
                 height={200} />
             </a>
           </div>

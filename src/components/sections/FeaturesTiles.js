@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Kansas Scholar
                     </h4>
                   <p className="m-0 text-sm">
-                     Due to my academic achievements I was nominated for the Kansas Scholar award and came out with the win. 
+                     Due to my academic achievements I was nominated for the Kansas Scholar award and came out with the win. This allowed me to go to junior college debt free and pursue my collegiate career without financial stress.
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Ellis Scholar
                     </h4>
                   <p className="m-0 text-sm">
-                    I Took part in the Ellis Foundation's scholarship competition and ended up winning the scholarship to help me go on to college and achieve my dreams.
+                    I Took part in the Ellis Foundation's scholarship competition and ended up winning the scholarship to help me go on to college and achieve my dreams. I have been able to mentor and learn through their scholarship.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Academic Powerhouse
                     </h4>
                   <p className="m-0 text-sm">
-                    I have maintained all A's throughout my academic career and had a 4.0 Grade Point Average up until my junior year of college due to the plus minus system that Southwestern currently implements. 
+                    I have maintained all A's throughout my academic career and had a 4.0 Grade Point Average up until my junior year of college. This was due to the plus minus system that Southwestern currently implements. 
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Dean's Honor Roll
                     </h4>
                   <p className="m-0 text-sm">
-                    In my academic career I have been on the Dean's Honor Roll every single year.
+                    In my academic career I have been on the Dean's Honor Roll every single year. This has put me in my hometown newspaper many years and has also helped me to get scholarships to further my academic success.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Southwestern Men's Basketball Assistant
+                    SC MBB Assistant
                     </h4>
                   <p className="m-0 text-sm">
-                    My current status is that of student assistant for the basketball team at Southwestern College. I have added more knowledge of the game to my skillset and eagerly await my future.
+                    My current status is that of student assistant for the basketball team at Southwestern College. I have added more knowledge of the game to my skillset, as well as a new mindset and eagerly await my future.
                     </p>
                 </div>
               </div>

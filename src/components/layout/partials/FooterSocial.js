@@ -18,7 +18,7 @@ const FooterSocial = ({
     >
       <ul className="list-reset">
         <li>
-          <a href="https://facebook.com/">
+          <a href="https://www.linkedin.com/in/kaleb-vining-363960210/">
             <svg
               width="16"
               height="16"
@@ -44,7 +44,7 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a href="https://google.com/">
+          <a href="https://www.instagram.com/vining44/">
             <svg
               width="16"
               height="16"
