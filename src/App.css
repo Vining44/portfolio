@@ -73,3 +73,53 @@ p.m-0 {
 .tiles-item-reveal-from-right-is-revealed{
     height: 900px !important;
 }
+
+.easter-egg-one {
+    
+    color: #000 !important;
+    background-color: #fff !important;
+    word-wrap: normal !important;
+    text-align: center !important;
+    font-size: 25px !important;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.easter-egg-two {
+   
+    color: #000 !important;
+    background-color: #fff !important;
+}
+
+#three {
+    background-color: #fff !important;
+}
+
+.img-michael-jordan {
+    background-color: #000 !important;
+    background-image: url('/portfolio/images/michaeljordan.jpg') !important;
+}
+
+.easter-egg-three{
+    padding: 1rem !important;
+}
+
+.easter-egg-four {
+    padding: 2rem !important;
+}
+
+.easter-egg-five {
+    padding: 2rem !important;
+}
+
+.easter-egg-seven {
+    padding: 2rem !important;
+}
+
+.easter-egg-nine {
+    padding: 2rem
+}
+
+.easter-egg-eleven {
+    padding: 2rem
+}
