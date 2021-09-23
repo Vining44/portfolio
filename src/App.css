@@ -76,50 +76,74 @@ p.m-0 {
 
 .easter-egg-one {
     
-    color: #000 !important;
-    background-color: #fff !important;
-    word-wrap: normal !important;
+    color: #ff0 !important;
     text-align: center !important;
-    font-size: 25px !important;
+    font-size: 33.5px !important;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: auto !important;
+    background-color: #000 !important;
+    width: 100vw ;
+    height: 50vw ;
+}
+
+.egg-yolk-one {
+    background-color: #000 !important;
+    color: #ff0 !important;
     
 }
 
-.easter-egg-two {
-   
-    color: #000 !important;
-    background-color: #fff !important;
-}
-
-#three {
-    background-color: #fff !important;
-}
-
-.img-michael-jordan {
+.egg-yolk-two {
     background-color: #000 !important;
-    background-image: url('/portfolio/images/michaeljordan.jpg') !important;
+    color: #fff1 !important;
+
 }
 
-.easter-egg-three{
-    padding: 1rem !important;
+.photo-space {
+    height: 400px !important;
+    width: auto !important;
+
+    background-repeat: repeat-x;
+    background-image: url('/portfolio/images/platoscave.jpg');
+    background-size: contain ;
+
+
 }
 
-.easter-egg-four {
-    padding: 2rem !important;
+.filler-one {
+    background-color: #000 !important;
+    color:#000 !important;
+
 }
 
-.easter-egg-five {
-    padding: 2rem !important;
+.easter-egg-three {
+    background-color: #000 !important;
+    color: #ff0 !important;
+    text-align: left !important;
 }
 
-.easter-egg-seven {
-    padding: 2rem !important;
+.description {
+    background-color: #000 !important;
+    color: #ff0 !important;
+    text-align: justify left !important;
 }
 
-.easter-egg-nine {
-    padding: 2rem
+.egg-yolk-three {
+    background-color: #000 !important;
+    color: #ff0 !important;
 }
 
-.easter-egg-eleven {
-    padding: 2rem
+.darkness {
+    background-color: #000 !important;
+    color: #000 !important;
+}
+
+.Spacer {
+    background-color: #000 !important;
+    color:#000 !important;
+}
+
+.nav {
+    font-size: 8px !important;
+    background-color: #000 !important;
+    color: #0fd !important;
 }
