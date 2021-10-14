@@ -69,8 +69,8 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://www.richroll.com/">
-                    Inspiration
+                  <Button tag="a" color="primary" wideMobile href="https://linktr.ee/Vining44">
+                    Socials
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://collegiansc.org/?s=Kaleb+Vining">
                     Newspaper Articles

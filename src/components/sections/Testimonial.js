@@ -79,7 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — In my high school years I was not a very fit kid, but my basketball coach my senior year did not care about that. He saw the character within and took me under his wing in terms of loving the game of basketball. I began learning more about growth mindset and this brought me out of some dark times. Through that I have learned to find positive moments in the negative times that life throws at me.
+                    — In my high school years I was not a very fit kid, but my basketball coach my senior year did not care about that. He saw the character within and took me under his wing in terms of loving the game of basketball. I began learning more about growth mindset and this brought me out of some dark times. Through that I have learned to find positive moments in the negative times that I have had to go through in my life.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -96,7 +96,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — During college I have lost my best friend due to a brain bleed. This put me through some dark times, but I came out on top of it with a new outlook on life. We must live in the moment and not worry about what is to come tomorrow. This helped me process what is truly important and put those things as a main emphasis in my life such as family, friends, and faith in what is to come.
+                    — During college I have lost my best friend due to a brain bleed. This put me through some dark times, but I came out on top of it with a new outlook on life. We must live in the moment and not worry about what is to come tomorrow. This helped me process what is truly important and put those things as a main emphasis in my life such as family, friends, and faith in what is to come. I have made peace and will continue to do so in the future.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Cowley Basketball Manager
+                    Cowley MBB 
                     </h4>
                   <p className="m-0 text-sm">
-                    In my sophomore year of college I was given the opportunity to manage for the basketball team at Cowley College. I flourished and learned more about my own coaching philosophies while adding some new views to my mindset.
+                    In my sophomore year of college I was given the opportunity to manage for the basketball team at Cowley College. I flourished, learned more about my own coaching philosophies, and grew as an individual.
                     </p>
                 </div>
               </div>
